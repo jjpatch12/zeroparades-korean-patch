@@ -1,0 +1,12 @@
+Font compatibility notice
+
+Original font: NanumSquareRoundR.ttf (NAVER Corporation)
+Original SHA-256: 52862fdf05b55ba886ca21998222d9598ef84c975e68046b9a8d8f1af09228a0
+Compatibility family: ZeroParades Round KR Regular
+Embedded SHA-256: 014220b2a9328074d30ca90dbd19a9f9e8e1f0c4b74e3a7abaab66028fa8a371
+
+Empty visible cmap mappings were removed to allow TextMeshPro to use the supplemental font. Existing glyph outlines, hinting, advance widths and side bearings are preserved. Names of the derived font were changed to avoid the reserved names. Original copyright notices remain in the font and the official OFL license is included.
+
+The supplemental Noto Sans KR font supplies rare Hangul and CJK glyphs missing from Nanum. Its OFL license is included separately.
+
+Official Nanum license: https://help.naver.com/service/30016/contents/18088?lang=ko&osType=PC
