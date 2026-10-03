@@ -6,7 +6,7 @@
 
 [릴리즈 페이지에서 패치 받기](https://github.com/jjpatch12/zeroparades-korean-patch/releases/latest)
 
-Assets에서 **`ZeroParades_한국어패치_1.1.40707.exe`**를 다운로드하세요. 게임이 설치되어 있어야 사용할 수 있습니다.
+Assets에서 **`ZeroParades_KoreanPatch_1.1.40707.exe`**를 다운로드하세요. 게임이 설치되어 있어야 사용할 수 있습니다.
 
 ## 한국어화 범위
 
@@ -57,7 +57,7 @@ Assets에서 **`ZeroParades_한국어패치_1.1.40707.exe`**를 다운로드하�
 ## 이번 릴리즈 파일 정보
 
 - 대상 게임: **1.1.40707**
-- 파일: `ZeroParades_한국어패치_1.1.40707.exe`
+- 파일: `ZeroParades_KoreanPatch_1.1.40707.exe`
 - 크기: **208,295,776 bytes**
 - SHA-256:
 
